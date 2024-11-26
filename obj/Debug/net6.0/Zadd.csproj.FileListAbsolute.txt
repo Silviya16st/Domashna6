@@ -1,0 +1,14 @@
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\bin\Debug\net6.0\Zadd.exe
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\bin\Debug\net6.0\Zadd.deps.json
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\bin\Debug\net6.0\Zadd.runtimeconfig.json
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\bin\Debug\net6.0\Zadd.dll
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\bin\Debug\net6.0\Zadd.pdb
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\Zadd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\Zadd.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\Zadd.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\Zadd.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\Zadd.dll
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\refint\Zadd.dll
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\Zadd.pdb
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\Zadd.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Silviya\Domashna6\Zadd\obj\Debug\net6.0\ref\Zadd.dll
